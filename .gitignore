@@ -1,4 +1,6 @@
 /vendor/
+.phpunit.result.cache
+.phpunit.cache
 node_modules/
 npm-debug.log
 yarn-error.log
